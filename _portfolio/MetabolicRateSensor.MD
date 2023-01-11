@@ -2,8 +2,8 @@
 title: "Metabolic Rate Sensor"
 excerpt: "A non-invasive transdermal metaolic rate sensor created as a research project."
 header:
-  image: /assets/img/OptopairHolder.png
-  teaser: /assets/img/Optopair.png
+  image: /assets/img/Optopair.png
+  teaser: /assets/img/OptopairHolder.png
 gallery:
   - image_path: assets/img/ComparisonGraph.png
   - image_path: assets/img/ResearchGraph.png
