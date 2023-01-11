@@ -17,7 +17,7 @@ feature_row:
   - image_path: assets/img/C-Wire-Arm.png
     alt: "Extended Appendage for Safe Razor Wire Handling"
     title: "C-Wire Deployment Arm"
-    excerpt: "Several extended appendage prototypes to aid the U.S. Army in Concertina wire deployment."
+    excerpt: "An adjustable-length extended retractable appendage to aid the U.S. Army in Concertina wire deployment."
   - image_path: assets/img/Automatic-Dog-Feeder.png
     alt: "Mechatronic Sensing Dog Feeder"
     title: "Automatic Dog Feeder"
