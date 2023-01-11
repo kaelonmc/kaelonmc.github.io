@@ -16,7 +16,7 @@ Kaelon is currently finishing his final semester at Vanderbilt University with a
 
 ## Technical Skills
 
-With experience serving as a makerspace supervisor for the SyBBURE Searle Undergradute Research Program, Kaelon has developed the capacity to operate many different computer controlled (CNC) fabrication tools. Kaelon also has experience with a variety of computer-aided deisgn (CAD) modeling softwares, coding languages, and additional machining tools which include:
+With experience serving as a makerspace supervisor for the SyBBURE Searle Undergraduate Research Program, Kaelon has developed the capacity to operate many different computer controlled (CNC) fabrication tools. Kaelon also has experience with a variety of computer-aided design (CAD) modeling softwares, coding languages, and additional machining tools which include:
 
 * Fused Deposition Modeling (FDM)
 * Laser Cutting
