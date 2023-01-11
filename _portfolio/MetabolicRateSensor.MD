@@ -18,6 +18,10 @@ gallery:
 * **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
 
 # CAD Model
-<iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+#### Holds the experimental skin phantom and optopair
+<iframe src="https://myhub.autodesk360.com/ue2d8555f/shares/public/SH56a43QTfd62c1cd9684d1a2561ee276e90?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# Arduino Code
+The code specifically for this project is private but, for completion sake, initial sample Arduino code used to drive the Automatic Dog Feeder seen on the homepage can be found [here] (https://github.com/kaelonmc/Misc.-Arduino-Code/blob/35504efb8428851e06a30b6429d3b5981f38d774/Dog_Feeder_Sample_Code.ino).
 
 {% include gallery caption="Large Format 3D Printer Gallery" %}
