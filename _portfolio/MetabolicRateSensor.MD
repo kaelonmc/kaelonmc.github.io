@@ -17,7 +17,7 @@ gallery:
 * **Industry-standard Detection Capability** When optimized, this sensor can detect highly specific changes in the concentration of CO2 present in air.
 * **Advancing Technology** Additional tests are yielding an ability to detect changes through liquids introduced to lab-made skin phantoms.
 
-# Off-the-Shelf and 3D Printed
+# Off-the-Shelf and 3D Printed Parts
 
 |Part|Acquirement Method|
 |----|----|
