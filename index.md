@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Course-Based Submission Website"
 layout: splash
 header:
   overlay_color: "#000"
