@@ -21,7 +21,7 @@ feature_row:
   - image_path: assets/img/Automatic-Dog-Feeder.png
     alt: "Mechatronic Sensing Dog Feeder"
     title: "Automatic Dog Feeder"
-    excerpt: "Mechatronic class project resulting in an automatic feeder for my dog."
+    excerpt: "A weight-detecting automatic feeder for my dog."
 ---
 
 {% include feature_row %}
