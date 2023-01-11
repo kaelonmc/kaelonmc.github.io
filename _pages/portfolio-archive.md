@@ -8,3 +8,4 @@ classes: wide
 ---
 
 My digital fabrication projects:
+Metabolic Rate Sensor
