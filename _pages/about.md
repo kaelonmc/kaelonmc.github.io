@@ -1,31 +1,29 @@
 ---
 
-title: "About David Florian"
+title: "About Kaelon McNeece"
 
 ---
+## Overview
+
+Kaelon has acquired a variety of engineering skills ranging from mechatronic design to methods of prototyping. These skills have been put to work in various capacities as seen in his work developing surface friction testing protocols with Permobil Inc. and designing a noninvasive, transdermal metabolic rate sensor with the Marasco Lab at Vanderbilt University.
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Kaelon is currently finishing his final semester at Vanderbilt University with a career as an Analyst at Deloitte Consulting currently in order.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * B.E. Mechanical Engineering (Expected May 2023)
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+With experience serving as a makerspace supervisor for the SyBBURE Searle Undergradute Research Program, Kaelon has developed the capacity to operate many different computer controlled (CNC) fabrication tools. Kaelon also has experience with a variety of computer-aided deisgn (CAD) modeling softwares, coding languages, and additional machining tools which include:
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
-
-## Press 
-
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+* Fused Deposition Modeling (FDM)
+* Laser Cutting
+* CNC milling
+* Injection Molding
+* Microcontrollers
+* SolidWorks, Fusion360, AutoCAD, Creo
+* Python, Java, MATLAB, C
 
 ![Kaelon McNeece](/assets/img/me squared.jpg)
