@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Kaelon McNeece is currently a student in two courses taught by Dr. David Florian: Rapid Prototyping alongside Additive and Polymer-based Manufacturing. This website is to serve as both a portfolio and submission site for projects and associated work completed within the latter class."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
