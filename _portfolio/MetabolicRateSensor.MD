@@ -17,6 +17,19 @@ gallery:
 * **Industry-standard Detection Capability** When optimized, this sensor can detect highly specific changes in the concentration of CO2 present in air.
 * **Advancing Technology** Additional tests are yielding an ability to detect changes through liquids introduced to lab-made skin phantoms.
 
+# Off-the-Shelf and 3D Printed
+
+|Part|Acquirement Method|
+|----|----|
+|Optopair Holder|3D-Printed|
+|PCB Holder|3D-Printed|
+|LED Bulb|Purchased|
+|Photodiode|Purchased|
+|Arduino|Purchased|
+|LED Driver|Purchased|
+|Optopair Synchronizer Board|Purchased|
+|Circuit-Building Components|Purchased|
+
 # CAD Model
 #### Holds the experimental skin phantom and optopair
 <iframe src="https://myhub.autodesk360.com/ue2d8555f/shares/public/SH56a43QTfd62c1cd9684d1a2561ee276e90?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
