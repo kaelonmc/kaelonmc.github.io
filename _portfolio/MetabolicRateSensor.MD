@@ -1,6 +1,6 @@
 ---
 title: "Metabolic Rate Sensor"
-excerpt: "A non-invasive transdermal metaolic rate sensor created as a research project."
+excerpt: "A non-invasive transdermal metabolic rate sensor created as a research project."
 header:
   image: /assets/img/Optopair.png
   teaser: /assets/img/OptopairHolder.png
@@ -29,6 +29,8 @@ gallery:
 |LED Driver|Purchased|
 |Optopair Synchronizer Board|Purchased|
 |Circuit-Building Components|Purchased|
+|Power Supply|Purchased|
+|Oscilloscope|Purchased|
 
 # CAD Model
 #### Holds the experimental skin phantom and optopair
@@ -36,5 +38,8 @@ gallery:
 
 # Arduino Code
 The code specifically for this project is private but, for completion sake, initial sample Arduino code used to drive the Automatic Dog Feeder seen on the homepage can be found [here](https://github.com/kaelonmc/Misc.-Arduino-Code/blob/35504efb8428851e06a30b6429d3b5981f38d774/Dog_Feeder_Sample_Code.ino).
+
+# Operation
+While still a project in progress, use of operation is relatively easy. The Arduino with loaded project code must be turned on and connected to the sensors. The LED and photodiode optopair must be placed within their respective slots on any given holder. Once fitted, either a gaseous or liquid sample containing CO2 must be placed within the holder. Upon turning on the power supply, immediately data collection should begin. Run for however long is needed and power off.
 
 {% include gallery caption="Large Format 3D Printer Gallery" %}
