@@ -42,4 +42,4 @@ The code specifically for this project is private but, for completion sake, init
 # Operation
 While still a project in progress, use of operation is relatively easy. The Arduino with loaded project code must be turned on and connected to the sensors. The LED and photodiode optopair must be placed within their respective slots on any given holder. Once fitted, either a gaseous or liquid sample containing CO2 must be placed within the holder. Upon turning on the power supply, immediately data collection should begin. Run for however long is needed and power off.
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+{% include gallery caption="Comparison Chart of Metabolic Rate Acquisition Methods, Results From Testing, and a Sample Output Waveform" %}
