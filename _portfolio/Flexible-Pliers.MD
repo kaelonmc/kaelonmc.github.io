@@ -2,8 +2,8 @@
 title: "Flexible Pliers"
 excerpt: "Print-in-place Multimaterial Pliers capable of picking up 3 mm diameter plastic pellets."
 header:
-  image: /assets/img/Pliers-In-Action.jpg
-  teaser: /assets/img/Plier-Body.jpg
+  image: /assets/img/Plier-Body.jpg
+  teaser: /assets/img/Pliers-In-Action.jpg
    
 ---
 
