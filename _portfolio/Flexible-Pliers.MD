@@ -6,7 +6,6 @@ header:
   teaser: /assets/img/Pliers-In-Action.jpg
    
 ---
-
 ## Overview
 Print-in-place models enable the creation of an efficient, multi-component design with movable parts that are functional upon removal from the print bed. Print-in-place parts are made to be printed in one go, meaning that multiple 3D prints don’t have to be put together in order to create an effective part. Supports are also generally unnecessary for print-in-place models given that they, alongside a lack of appropriate clearance, would result in crunchy movement. Allowing for a flexible material in a print-in-place design helps alleviate these concerns whether it be a thin rigid plastic or a more elastic secondary material.
 
