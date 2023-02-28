@@ -1,0 +1,28 @@
+---
+title: "Flexible Pliers"
+excerpt: "Print-in-place Multimaterial Pliers capable of picking up 3 mm diameter plastic pellets."
+header:
+  image: /assets/img/Plier-Body.jpg
+  teaser: /assets/img/Pliers-In-Action.jpg
+   
+---
+
+# Overview
+Print-in-place models enable the creation of an efficient, multi-component design with movable parts that are functional upon removal from the print bed. Print-in-place parts are made to be printed in one go, meaning that multiple 3D prints don’t have to be put together in order to create an effective part. Supports are also generally unnecessary for print-in-place models given that they, alongside a lack of appropriate clearance, would result in crunchy movement. Allowing for a flexible material in a print-in-place design helps alleviate these concerns whether it be a thin rigid plastic or a more elastic secondary material.
+
+In this project, a print-in-place model approach was used when designing functional needle nose pliers. The objective of the assignment these pliers were made for is that the pliers should be capable of picking up and gripping a 3 mm diameter plastic pellet, moving it, and releasing it. In addition, assemblies of up to three parts were permitted as long as tools weren’t acquired for assembly.
+
+My approach to this project was to create a two-part assembly in which one part contains a parabolically shaped, elastic, spring-like component made from 95A TPU. This would allow for compression and subsequent returning to the plier’s starting position through the support’s flexible nature. This was to be the only elastic portion of the plier design, with the rest of the parts being printed from generic PLA.
+
+
+* **Novel Concept** A non-invasive transdermal metabolic rate sensor utilizing mid-infrared light.
+* **Industry-standard Detection Capability** When optimized, this sensor can detect highly specific changes in the concentration of CO2 present in air.
+* **Advancing Technology** Additional tests are yielding an ability to detect changes through liquids introduced to lab-made skin phantoms.
+
+# CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43969a3cc09690b026?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# Design Choices and Print Settings
+Important characteristic dimensions of the rigid plier design include: a 10 mm handle width, a 20 mm diameter circular base, a needle nose length of 30 mm, a handle length of 55 mm, and a thickness of 10 mm. These were all made fairly generic to yield a parametrically designed, simplistic yet effective plier shape. Because small pellets are the intended object to grip and move, the plier design was intended to be relatively small. Regarding the flexible component, a width and length of the parabolic elastic shape needed to be determined for proper functionality. To do this, I measured the distance between the two handles when closed 5 mm from the circular base which was where the support was intended to be placed. This measurement was approximately 11 mm. As such, I determined the end-to-end width of the flexible support to be 15 mm to give a reasonable range of opening/closing motion for the pliers. This, in turn, yielded a maximum supported object dimension of 10 mm that the pliers could successfully grip and hold. The overall height of the support component is fairly arbitrary but was selected to be 20 mm to support the amount of flexure needed for the pliers to fully close and return to their starting position. Additional design considerations include a 15 mm long notch that is half the width of the plier handles to allow the TPU to be firmly positioned within the plier design considering that TPU and PLA don’t adhere to one another very well. This design choice enabled a structurally sound flexible element with supports that were completely embedded within one part of the two-part plier assembly. A small dowel-hole fit was also needed to press fit the two-part assembly together. Somewhat crunchy movement was obtained by printing a 6 mm diameter hole with a 5.5 mm diameter dowel. In order to fix this, I lightly sanded down the dowel with sandpaper across its circumference and was able to obtain smooth motion following this step.
+
+This print was completed of a MakerGear M3-ID where each independent extruded contained a 0.35 mm nozzle. Because two materials were used, two distinct filament print settings were needed for a successful print. The PLA portions of the print used a 210 °C extruder temperature with no print speed limit. For the 95A TPU, a retraction speed of 15 mm/s was set to allow the extruder’s gears to adequately grip and extrude the TPU without slipping. In addition, the extruder was set to 240 °C to melt and print the TPU with a maximum print speed of 25 mm/s to ensure print error minimization and solid material adhesion. The print bed was set to 60 °C which enabled both materials to adhere well at the beginning of the print.
