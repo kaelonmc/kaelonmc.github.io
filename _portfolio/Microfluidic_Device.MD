@@ -45,10 +45,10 @@ header:
 ## Design Description
 * A negative mold of the microfluidic mixer was created, cast with polydimethylsiloxane (PDMS), and bonded to a glass slide
 * The device has four sections, each using a different passive mixing scheme:
-  * 1. Zig-zag channels
-  * 2. Three-dimensional ridges
-  * 3. Intersecting channels
-  * 4. Inclined mixer
+1. Zig-zag channels
+2. Three-dimensional ridges
+3. Intersecting channels
+4. Inclined mixer
 * The inclusion of 4 sections forces the two samples to mix both in the XY directions (sections 1 and 3) as well as in the Z direction (sections 2 and 4)
 * 2.0 mm diameter posts were included at both inlets and the outlet to create an interface for connecting to the microfluidic tubing
   * Connection posts were also included in between each mixing section to evaluate the intermediate mixing results of each mixing scheme
@@ -85,8 +85,8 @@ header:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4381a449e85df15f9a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## References
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116190/
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4634658/ 
-* https://doras.dcu.ie/20464/1/_Naher_AMR_2010_Overview_of_microfluidic_mixing.pdf 
-* https://formlabs.com/blog/microfluidics-millifluidics-lab-on-a-chip-manufacturing/ 
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780503/ 
+* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116190/] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116190/)
+* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4634658/] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4634658/)
+* [https://doras.dcu.ie/20464/1/_Naher_AMR_2010_Overview_of_microfluidic_mixing.pdf] (https://doras.dcu.ie/20464/1/_Naher_AMR_2010_Overview_of_microfluidic_mixing.pdf)
+* [https://formlabs.com/blog/microfluidics-millifluidics-lab-on-a-chip-manufacturing/] (https://formlabs.com/blog/microfluidics-millifluidics-lab-on-a-chip-manufacturing/)
+* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780503/] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780503/)
