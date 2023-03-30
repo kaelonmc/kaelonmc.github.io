@@ -42,12 +42,51 @@ header:
     * Twisted channels
     * Surface chemistry
 
+## Design Description
+* A negative mold of the microfluidic mixer was created, cast with polydimethylsiloxane (PDMS), and bonded to a glass slide
+* The device has four sections, each using a different passive mixing scheme:
+  * 1. Zig-zag channels
+  * 2. Three-dimensional ridges
+  * 3. Intersecting channels
+  * 4. Inclined mixer
+* The inclusion of 4 sections forces the two samples to mix both in the XY directions (sections 1 and 3) as well as in the Z direction (sections 2 and 4)
+* 2.0 mm diameter posts were included at both inlets and the outlet to create an interface for connecting to the microfluidic tubing
+  * Connection posts were also included in between each mixing section to evaluate the intermediate mixing results of each mixing scheme
+* **Zig-zag channels** are one of the most popular passive mixing methods due to it being control-free and relatively simple to design and fabricate
+* The inclusion of **3D ridges** is intended to induce chaotic advection in the mixer, particularly in the Z-direction, by forcing flows with transverse components to fold fluid elements over the channel cross-section
+* **Intersecting channels** can be used to split, rearrange, and combine component streams to enhance mixing. The two species merge into a single large stream and flow along a main channel. The intersecting channels form connections between the parallel segments of the main channel, allowing fluid on one side of the main channel to interact with fluid on the other side of the channel.
+* Similar to the 3D ridges, the **inclined walls** in section 4 are designed to induce a chaotic mixing effect within the fluid stream. As the fluid traverses this section, it sways from side to side, resulting in a chaotic advection effect.
+* Pertinent dimensions of the design include:
+  * Wall thickness: 2.50 mm
+  * Outer height: 5.50 mm
+  * Inner height: 4.50 mm
+  * Channel height: 2.50 mm
+  * Channel width: 2.00 mm
+  * Microfluidic connection post diameter: 2.00 mm
+  * Section length: 16.25 mm
+  * Total length:  80.00 mm
+  * Total width: 30.00 mm
+
+## Justification for Stereolithography
+* A **Form 3 stereolithography (SLA) printer** was used to 3D print the negative mold of the microfluidic mixer
+  * SLA falls under the category of *vat photopolymerization (VPP)*, which constructs a model layer by layer out of a vat of liquid photopolymer resin. 
+    * An ultraviolet (UV) laser is used to cure the resin on each layer, and a platform moves the object being made downwards after each new layer is cured.
+  * VPP provides **extremely high-resolution** printing capabilities, with the minimum feature size being determined by the laser spot size (in this case, 85 um)
+* Other fabrication techniques can also be used to create microfluidic devices, such as **photolithography**, a traditional technique that was first used to create microfluidic devices
+  * However, microfluidics fabricated with photolithography have a *much higher cost* and can also *take much longer to fabricate*
+    * Devices fabricated with photolithography can cost ~10x more than devices fabricated with SLA, largely due to the high maintenance costs of the equipment and facilities needed to run photolithography processes
+    * Ordering a microfluidic device fabricated with photolithography can also result in lead times of up to two months
+      * SLA parts can be ready in a matter of hours, allowing for rapid testing and prototyping of microfluidic devices
+  * Traditional microfluidic devices made with photolithography are limited to a  two-dimensional plane and a rectangular cross-sectional area
+    * SLA-printed microfluidics are limited only by what the user models in CAD, allowing for channels to take any three-dimensional path
+    * **This is particularly beneficial for a homogeneous mixer**, necessitating the use of SLA printing
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4381a449e85df15f9a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-
-## Design Choices and Print Settings
-Important characteristic dimensions of the rigid plier design include: a 10 mm handle width, a 20 mm diameter circular base, a needle nose length of 30 mm, a handle length of 55 mm, and a thickness of 10 mm. These were all made fairly generic to yield a parametrically designed, simplistic yet effective plier shape. Because small pellets are the intended object to grip and move, the plier design was intended to be relatively small. Regarding the flexible component, a width and length of the parabolic elastic shape needed to be determined for proper functionality. To do this, I measured the distance between the two handles when closed 5 mm from the circular base which was where the support was intended to be placed. This measurement was approximately 11 mm. As such, I determined the end-to-end width of the flexible support to be 15 mm to give a reasonable range of opening/closing motion for the pliers. This, in turn, yielded a maximum supported object dimension of 10 mm that the pliers could successfully grip and hold. The overall height of the support component is fairly arbitrary but was selected to be 20 mm to support the amount of flexure needed for the pliers to fully close and return to their starting position. Additional design considerations include a 15 mm long notch that is half the width of the plier handles to allow the TPU to be firmly positioned within the plier design considering that TPU and PLA don’t adhere to one another very well. This design choice enabled a structurally sound flexible element with supports that were completely embedded within one part of the two-part plier assembly. A small dowel-hole fit was also needed to press fit the two-part assembly together. Somewhat crunchy movement was obtained by printing a 6 mm diameter hole with a 5.5 mm diameter dowel. In order to fix this, I lightly sanded down the dowel with sandpaper across its circumference and was able to obtain smooth motion following this step.
-
-This print was completed of a MakerGear M3-ID where each independent extruded contained a 0.35 mm nozzle. Because two materials were used, two distinct filament print settings were needed for a successful print. The PLA portions of the print used a 210 °C extruder temperature with no print speed limit. For the 95A TPU, a retraction speed of 15 mm/s was set to allow the extruder’s gears to adequately grip and extrude the TPU without slipping. In addition, the extruder was set to 240 °C to melt and print the TPU with a maximum print speed of 25 mm/s to ensure print error minimization and solid material adhesion. The print bed was set to 60 °C which enabled both materials to adhere well at the beginning of the print.
+## References
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116190/
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4634658/ 
+* https://doras.dcu.ie/20464/1/_Naher_AMR_2010_Overview_of_microfluidic_mixing.pdf 
+* https://formlabs.com/blog/microfluidics-millifluidics-lab-on-a-chip-manufacturing/ 
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780503/ 
