@@ -85,8 +85,8 @@ header:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4381a449e85df15f9a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## References
-* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116190/] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116190/)
-* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4634658/] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4634658/)
-* [https://doras.dcu.ie/20464/1/_Naher_AMR_2010_Overview_of_microfluidic_mixing.pdf] (https://doras.dcu.ie/20464/1/_Naher_AMR_2010_Overview_of_microfluidic_mixing.pdf)
-* [https://formlabs.com/blog/microfluidics-millifluidics-lab-on-a-chip-manufacturing/] (https://formlabs.com/blog/microfluidics-millifluidics-lab-on-a-chip-manufacturing/)
-* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780503/] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780503/)
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116190/
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4634658/
+* https://doras.dcu.ie/20464/1/_Naher_AMR_2010_Overview_of_microfluidic_mixing.pdf
+* https://formlabs.com/blog/microfluidics-millifluidics-lab-on-a-chip-manufacturing/
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780503/
