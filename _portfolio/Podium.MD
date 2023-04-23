@@ -2,8 +2,8 @@
 title: "Generative Podium"
 excerpt: "Large Format 3D Printing a Podium"
 header:
-  image: /assets/img/Podium-Banner.jpg
-  teaser: /assets/img/Podium-Preview.jpg
+  image: /assets/img/Podium-Banner.JPG
+  teaser: /assets/img/Podium-Preview.JPG
    
 ---
 ## Model Creation and Discussion
