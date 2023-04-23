@@ -84,6 +84,9 @@ header:
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4381a449e85df15f9a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+## Youtube Video
+You can find a video of this device in action [here](https://youtu.be/tkyPoLz9E3s).
+
 ## References
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116190/
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4634658/
