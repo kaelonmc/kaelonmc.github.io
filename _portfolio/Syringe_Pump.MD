@@ -17,8 +17,9 @@ This design includes two support pieces that have been elongated and include “
 This design also features three buttons, a knob, and an LED light on the side of the enclosure as well as a switch incorporated into the linear actuator. Of the three buttons, one is a latching button that acts as a ‘go’ or ‘pause’ command for the linear actuator. In its unlatched state, the syringe pump is ‘paused’ and will not move. When the button is pressed, it clicks, becoming latched, which starts the motion of the syringe pump. The other two buttons function as directional motion commands, where one moves the linear actuator at its maximum speed clockwise while the other button does the same but counterclockwise. Next to the buttons is a potentiometer which controls the speed of the linear actuator, but only in a forward direction. Finally, the last feature on the side of the enclosure containing all of the device’s peripherals is an LED light that appears green when the syringe pump is moving, yellow when it is ‘paused,’ and red when the switch is pressed. The switch is attached to the middle support piece and functions as a ‘stop’ command. It will be hit by the carriage when the plunger is fully inside the syringe barrel, indicating that all fluid has been pumped out, and will turn the motor off as no more motion is necessary.
 
 ## Off-the-Shelf and 3D Printed Parts
+
 |Part|Acquirement Method|
-|----|----|
+|-------|-------|
 |Carriage|3D Printed|
 |Rod Support|3D Printed|
 |End Support|3D Printed|
@@ -26,9 +27,9 @@ This design also features three buttons, a knob, and an LED light on the side of
 |Motor Mounting Plate|3D Printed|
 |Enclosure|3D Printed|
 |Enclosure Lid|3D Printed|
-|250 mm Lead Screw (2 mm Lead)|Purchased|
+|250 mm Lead Screw with 2 mm Lead|Purchased|
 |1/4" x 8 mm Flexible Coupling|Purchased|
-|200 mm Linear Rod (8 mm diameter)|Purchased|
+|200 mm Linear Rod with 8 mm Diameter|Purchased|
 |1' 2040 Aluminum Extrusion|Purchased|
 |NEMA 17 Stepper Motor|Purchased|
 |Quad Output 4 A Power Supply|Purchased|
